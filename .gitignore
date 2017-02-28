@@ -1,3 +1,6 @@
+debug.log
+.sass-cache
+
 # Logs
 logs
 *.log
